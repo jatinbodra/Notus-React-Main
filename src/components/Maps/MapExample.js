@@ -63,7 +63,7 @@ function MapExample() {
       position: myLatlng,
       map: map,
       animation: google.maps.Animation.DROP,
-      title: "Notus React!",
+      title: "Advetfly impex!",
     });
 
     const contentString =
